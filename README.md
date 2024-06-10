@@ -139,6 +139,10 @@ O projeto usa CSS para estilizar as páginas. Um exemplo de estilo de botão:
 
 Cada seção é projetada para proporcionar uma experiência única e educacional.
 
+## Print da Tela
+
+- 
+
 
 ## Autores
 
