@@ -1,4 +1,3 @@
-
 # Homepage Front-Station
 
 Front Station é um site educacional e interativo voltado para explorar as possibilidades do desenvolvimento front-end, especialmente em JavaScript. Este projeto inclui várias seções, como uma estação de música, uma estação de quiz e uma estação de jogos, todas projetadas para demonstrar as capacidades do desenvolvimento web moderno.
@@ -141,7 +140,8 @@ Cada seção é projetada para proporcionar uma experiência única e educaciona
 
 ## Print da Tela
 
-- 
+- ![home](https://github.com/Carla-coder/Front_Station/assets/128012862/8fc3f10b-adcd-4030-ad49-29a7e069537d)
+
 
 
 ## Autores
