@@ -2,7 +2,7 @@
 
 function loginWithGitHub() {
   window.location.href =
-    "https://github.com/login/oauth/authorize?client_id=9efdc218c4387de1cefa&scope=user";
+    "https://github.com/login/oauth/authorize?client_id=Ov23li7tNKGsZVBsVMYm&scope=user";
 }
 
 const urlParams = new URLSearchParams(window.location.search);
