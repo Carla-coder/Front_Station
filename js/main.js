@@ -8,5 +8,5 @@ function loginWithGitHub() {
 const urlParams = new URLSearchParams(window.location.search);
 const error = urlParams.get("error");
 if (error === "access_denied") {
-  window.location.href = "index.html";
+  window.location.href = "login.html";
 }
