@@ -82,7 +82,7 @@ let quizQuestions = [
     ],
   },
   {
-    question: "O que é CSS usado para fazer?",
+    question: "Para que serve o CSS?",
     answers: [
       { text: "Adicionar interatividade a uma página web", correct: false },
       { text: "Criar bancos de dados", correct: false },
