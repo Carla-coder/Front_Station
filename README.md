@@ -74,7 +74,6 @@ front-station/
 ├── game.html
 ├── home.html
 ├── index.html
-├── login.html
 ├── music.html
 ├── quiz.html
 ├── README.md
